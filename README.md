@@ -17,23 +17,7 @@ Developed an AI System based on Generative Adversarial Networks (GANs) to predic
 ## Fog Removal Demo:
 <div align="center"><img src="./readme_images/rice1_result.png" width="600" height=""></div>
 
-## 👦 Developed By:
-<h2 align="center">Akash Ramjyothi</h2>
-<p align="center">
-  <a href="https://github.com/Akash-Ramjyothi"><img src="https://avatars.githubusercontent.com/u/54114888?v=4" width=150px height=150px /></a> 
-    
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/akash-ramjyothi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:akash.ramjyothi@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/akash.ramjyothi/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  ☎️ PH:+91 8939928002.
-</p>
-
-## 📃 ISRO Internship Certificate:
-<p align="center">
-<img src="https://user-images.githubusercontent.com/54114888/143440898-9461edd7-cd26-4d3e-9258-9b27d8ca44d0.png" width="650" height="">
-</p>
-  
+#
 ## 📜 Research Paper published:
 https://hal.archives-ouvertes.fr/hal-03462652  
 
